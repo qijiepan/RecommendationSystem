@@ -1,6 +1,9 @@
 '''
 
-This is the item based cf
+This is the item based cf is useful when the number of items is smaller than the number of users.
+And it's suitable for the area where user personal intersts is important 
+What's more, it's friendly to new item rather than new users
+Finally, it's convincing and can explain why recommeny item to user
 '''
 
 import math
