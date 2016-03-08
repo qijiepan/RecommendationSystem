@@ -2,7 +2,7 @@
 For the UserBased Algorithm, it's useful when the amount of user is not large.
 And it's time efficiency.
 
-What's more, this user-based
+What's more, this user-based mehthod is friendly to new item,rather than users, and the recommendation result is hard to explain
 
 # I need to consider how to implement this algorith in map-reduce platform.
 # Actually, if we use spark, we could use Alternating Least Square to calculate the score for the movie the user have not watched.
